@@ -2,5 +2,6 @@
 AC1 - Maikon RA:1800009
 
 # Emma Watson
-# Chris Tucker
+# Scarlett Johansson
 # Bruce Willis
+# Megan Fox
